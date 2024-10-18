@@ -21,8 +21,7 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![github_pr_reviewer bot](https://img.shields.io/static/v1?label=&message=github_pr_reviewer&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/githubpr_review)
-
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![githubpr_reviewer bot](https://img.shields.io/static/v1?label=&message=githubpr_reviewer&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/githubpr_reviewer)
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
