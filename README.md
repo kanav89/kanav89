@@ -8,7 +8,7 @@
 
 
 :wave: Hello! I'm a third-year CS student at Arizona State University and love building softwares, solving problems, attend hackathons and reading a lot about latest stuff in tech. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
-
+<!-- 
 <div align="center">
     <details>
         <summary><b>GitHub Metrics👇🏻</b></summary>
@@ -17,11 +17,12 @@
 <img src="https://metrics.lecoq.io/kanav198?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
     </details>
 </div>
-
+-->
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![github_pr_reviewer bot](https://img.shields.io/static/v1?label=&message=github_pr_reviewer&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/githubpr_review)
+
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
