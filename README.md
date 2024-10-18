@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kanav89?label=Follow&style=social)](https://github.com/kanav89/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kanav198/)](https://www.linkedin.com/in/kanav198/)
 [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/kanav_gupta)](https://dev.to/kanav_gupta)
-[![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
+[![Gmail Badge](https://img.shields.io/badge/-email@kanavg004@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@kanavg004@gmail.com)](mailto:kanavg004@gmail.com)
 
 
 :wave: Hello! I'm a third-year CS student at Arizona State University and love building softwares, solving problems, attend hackathons and reading a lot about latest stuff in tech. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
