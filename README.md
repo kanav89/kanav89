@@ -21,8 +21,8 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![githubpr_review bot](https://img.shields.io/static/v1?label=&message=githubpr_review&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kanav89/githubpr_review)
-| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![MelodyMatch](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kanav89/MelodyMatch) [![GithubContri](https://img.shields.io/static/v1?label=&message=GithubContri&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kanav89/GithubContri) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![githubpr_review bot](https://img.shields.io/static/v1?label=&message=githubpr_review&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kanav89/githubpr_review) |
+| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![MelodyMatch](https://img.shields.io/static/v1?label=&message=MelodyMatch&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kanav89/MelodyMatch) [![GithubContri](https://img.shields.io/static/v1?label=&message=GithubContri&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/kanav89/GithubContri) |
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
