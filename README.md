@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-email@anuragsingh.dev-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
 
 
-:wave: Hello! I'm founder of [@hackclubnmit](https://github.com/kanav198) and love building softwares, automating my workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), developing algo-trading scripts, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
+:wave: Hello! I'm a third-year CS student at Arizona State University and love building softwares, solving problems, attend hackathons and reading a lot about latest stuff in tech. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
 
 <div align="center">
     <details>
