@@ -1,9 +1,5 @@
-# 👨🏻‍💻 [Kanav Gupta](https://kanav-codes.vercel.app) 
+# 👨🏻‍💻 [Kanav Gupta]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/kanavg02?style=social)](https://twitter.com/intent/follow?screen_name=kanavg02)
-[![GitHub followers](https://img.shields.io/github/followers/kanav89?label=Follow&style=social)](https://github.com/kanav89/?tab=follow)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kanav198/)](https://www.linkedin.com/in/kanav198/)
-[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/kanav_gupta)](https://dev.to/kanav_gupta)
 [![Gmail Badge](https://img.shields.io/badge/-email@kanavg004@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:email@kanavg004@gmail.com)](mailto:kanavg004@gmail.com)
 
 
